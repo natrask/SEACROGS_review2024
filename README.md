@@ -15,7 +15,7 @@ We have gathered here for convenience slides and the report for the 2024 review 
   - Anthony Gruber (SNL). 15m. - [slides](link)
   - Alan John Varghese (Brown). 15m. - [slides](link)
   - Houman Owhadi (Caltech). 15m. - [slides](link)
-  - Elise Walker (SNL). 15m - [pre-recorded talk](link), [slides](link)
+  - Elise Walker (SNL). 15m - [pre-recorded talk](https://github.com/natrask/SEACROGS_review2024/blob/main/Pre-recorded%20talks/DG2DAG_NovReview_static.mp4), [slides](link)
 - Spikes (50m)
   - Introductory remarks: Priya Panda (Yale) 20m. - [slides](link)
   - Qian Zhang (Brown). 15m. - [slides](link)
@@ -28,7 +28,7 @@ Time for on-the-fly questions: 15 minutes
 Total time: 210 minutes
 
 # Report #
-The report summarizing all aspects of research and programmatics of the center can be found [here](link).
+The report summarizing all aspects of research and programmatics of the center can be found [here](https://github.com/natrask/SEACROGS_review2024/blob/main/Report/SEA_CROGS2024.pdf).
 
 # Dissemination metrics #
 In the prior reporting year, the center has produced **67 journal publications**, **15 conference publications**, **87 invited talks**, **8 open-source software packages**, and **15 minisymposia/workshops**.
