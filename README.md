@@ -4,7 +4,7 @@ We have gathered here for convenience slides and the report for the 2024 review 
 
 # Schedule with links to talks #
 
-- Introductory remarks: George Karniadakis (Brown/PNNL). 15m. - [slides](link)
+- Introductory remarks: George Karniadakis (Brown/PNNL). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/karniadakis_overview.pptx)
 - Operators (50m)
   - Introductory remarks: Panos Stinis (PNNL). 5m. - [slides](link)
   - Amanda Howard (PNNL). 15m. - [slides](link)
