@@ -17,7 +17,7 @@ We have gathered here for convenience slides and the report for the 2024 review 
   - Houman Owhadi (Caltech). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/owhadi_graphs.pptx)
   - Elise Walker (SNL). 15m - [pre-recorded talk](https://github.com/natrask/SEACROGS_review2024/blob/main/Pre-recorded%20talks/DG2DAG_NovReview_static.mp4), [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/elisewalker_graphs.pptx)
 - Spikes (50m)
-  - Introductory remarks: Priya Panda (Yale) 20m. - [slides](link)
+  - Introductory remarks: Priya Panda (Yale) 20m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/panda_spikes.pdf)
   - Qian Zhang (Brown). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/qianzhang_spikes.pptx)
   - Brad Theilman (SNL). 15m . - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/theilman_spikes.pptx)
 - Outreach, interactions, and mentorship
