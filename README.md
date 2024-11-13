@@ -21,7 +21,7 @@ We have gathered here for convenience slides and the report for the 2024 review 
   - Qian Zhang (Brown). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/qianzhang_spikes.pptx)
   - Brad Theilman (SNL). 15m . - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/theilman_spikes.pptx)
 - Outreach, interactions, and mentorship
-  - Eric Cyr (SNL). 15m. - [slides](link)
+  - Eric Cyr (SNL). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/cyr_integration.pptx)
 
 Total presentation time : 190 minutes
 Time for on-the-fly questions: 15 minutes
