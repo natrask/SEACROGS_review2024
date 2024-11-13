@@ -7,7 +7,7 @@ We have gathered here for convenience slides and the report for the 2024 review 
 - Introductory remarks: George Karniadakis (Brown/PNNL). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/karniadakis_overview.pptx)
 - Operators (50m)
   - Introductory remarks: Panos Stinis (PNNL). 5m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/stinis_operators.pptx)
-  - Amanda Howard (PNNL). 15m. - [slides](link)
+  - Amanda Howard (PNNL). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/howard_operators.pdf)
   - Vivek Oomen (Brown). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/vivekoommen_operators.pptx)
   - Yasmin Jalalian (Caltech). 15m. - [slides](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/jalalian_operators.pptx),[pdf version](https://github.com/natrask/SEACROGS_review2024/blob/main/Slides/jalalian_operators.pdf)
 - Graphs (70m)
